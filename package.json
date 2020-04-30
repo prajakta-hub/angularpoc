@@ -27,7 +27,7 @@
         "bootstrap": "^4.4.1",
         "datatables.net": "^1.10.20",
         "datatables.net-dt": "^1.10.20",
-        "jquery": "^3.4.1",
+        "jquery": "^3.5.0",
         "ng-angular8-datatable": "^0.9.11",
         "ng-sidebar": "^9.2.0",
         "rxjs": "~6.4.0",
